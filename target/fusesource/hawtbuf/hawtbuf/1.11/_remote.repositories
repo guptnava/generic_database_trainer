@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 22 18:49:54 BST 2023
+hawtbuf-1.11.jar>central=
+hawtbuf-1.11.pom>cloudera-repo-releases=
+hawtbuf-1.11.jar>cloudera-repo-releases=
+hawtbuf-1.11-sources.jar>cloudera-repo-releases=
+hawtbuf-1.11.pom>central=

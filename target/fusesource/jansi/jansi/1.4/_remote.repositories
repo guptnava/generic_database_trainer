@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 22 18:50:12 BST 2023
+jansi-1.4.pom>cloudera-repo-releases=
+jansi-1.4.jar>central=
+jansi-1.4.jar>cloudera-repo-releases=
+jansi-1.4.pom>central=
